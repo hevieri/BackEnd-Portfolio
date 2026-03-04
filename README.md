@@ -19,7 +19,7 @@ Me apasiona diseñar la lógica detrás de cada proyecto y optimizar el manejo d
 
 ## 📂 Proyectos Backend
 
-### ⚙️ Tienda Online
+### ⚙️ Tienda Online ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 API RESTful construida con **PHP y SQL**, que permite registro, login y gestión de usuarios.
 
 [![Ver Código](https://img.shields.io/badge/Ver%20Código-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hevieri/Tienda)
@@ -27,7 +27,7 @@ API RESTful construida con **PHP y SQL**, que permite registro, login y gestión
 
 ---
 
-### ⚙️ MugiwaraWeb - Sitio Web
+### ⚙️ MugiwaraWeb - Sitio Web ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 Sitio web sencillo desarrollado con **PHP y MySQL**, realizado en menos de 24h.
 
 [![Ver Código](https://img.shields.io/badge/Ver%20Código-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hevieri/MugiwaraWeb)
@@ -35,3 +35,9 @@ Sitio web sencillo desarrollado con **PHP y MySQL**, realizado en menos de 24h.
 
 
 ---
+
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
