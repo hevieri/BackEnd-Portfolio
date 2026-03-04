@@ -23,7 +23,7 @@ Me apasiona diseñar la lógica detrás de cada proyecto y optimizar el manejo d
 API RESTful construida con **PHP y SQL**, que permite registro, login y gestión de usuarios.
 
 [![Ver Código](https://img.shields.io/badge/Ver%20Código-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hevieri/Tienda)
-[![Ver Online](https://img.shields.io/badge/Ver%20Online-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hevieri.github.io/Tienda/)
+
 
 ---
 
@@ -31,9 +31,7 @@ API RESTful construida con **PHP y SQL**, que permite registro, login y gestión
 Sitio web sencillo desarrollado con **PHP y MySQL**, realizado en menos de 24h.
 
 [![Ver Código](https://img.shields.io/badge/Ver%20Código-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hevieri/MugiwaraWeb)
-[![Ver Online](https://img.shields.io/badge/Ver%20Online-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hevieri.github.io/MugiwaraWeb/)
 
-[![Ver Código](https://github.com/hevieri/MugiwaraWeb)
 
 
 ---
