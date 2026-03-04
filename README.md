@@ -18,8 +18,25 @@ Me apasiona diseñar la lógica detrás de cada proyecto y optimizar el manejo d
 ---
 
 ## 📂 Proyectos Backend
+---
+---
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 🔹 Wordpress Plugins - Wordpress
+Sitio web sencillo desarrollado con **PHP y MySQL**, realizado en menos de 24h.
+
+[![Ver Código](https://img.shields.io/badge/Ver%20Código-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hevieri/Wordpress-customs/tree/main/plugins)
+
+---
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 🔹 Wordpress Themess - Wordpress
+Sitio web sencillo desarrollado con **PHP y MySQL**, realizado en menos de 24h.
+
+[![Ver Código](https://img.shields.io/badge/Ver%20Código-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hevieri/Wordpress-customs/tree/main/theme)
 
 
+
+---
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ### 🔹 Tienda Online 
@@ -35,6 +52,9 @@ Sitio web sencillo desarrollado con **PHP y MySQL**, realizado en menos de 24h.
 
 [![Ver Código](https://img.shields.io/badge/Ver%20Código-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hevieri/MugiwaraWeb)
 
+
+
+---
 
 
 ---
