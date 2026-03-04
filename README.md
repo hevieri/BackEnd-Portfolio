@@ -24,6 +24,7 @@ Me apasiona diseñar la lógica detrás de cada proyecto y optimizar el manejo d
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ### 🔹 Tienda Online 
 API RESTful construida con **PHP y SQL**, que permite registro, login y gestión de usuarios.
+
 [![Ver Código](https://img.shields.io/badge/Ver%20Código-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hevieri/Tienda)
 
 
