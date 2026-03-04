@@ -17,25 +17,20 @@ Me apasiona diseñar la lógica detrás de cada proyecto y optimizar el manejo d
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Proyectos Backend
 
-- [🖥️ Proyecto 1](https://github.com/tuusuario/proyecto1)  
-  *Aplicación web con autenticación de usuarios y CRUD en PHP + SQL.*
+### ⚙️ Tienda Online
+API RESTful construida con **PHP y SQL**, que permite registro, login y gestión de usuarios.
 
-- [📊 Proyecto 2](https://github.com/tuusuario/proyecto2)  
-  *Sistema de gestión con base de datos relacional y panel de administración.*
+[![Ver Código](https://github.com/hevieri/Tienda)
 
-- [⚡ Proyecto 3](https://github.com/tuusuario/proyecto3)  
-  *API RESTful en PHP conectada a MySQL, con endpoints seguros y documentación.*
 
 ---
 
-## 📫 Contacto
+### ⚙️ MugiwaraWeb - Sitio Web
+Sitio web sencillo desarrollado con **PHP y MySQL**, realizado en menos de 24h.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-- 📧 [Email](mailto:tuemail@example.com)  
-- 🐙 [GitHub](https://github.com/tuusuario)
+[![Ver Código](https://github.com/hevieri/MugiwaraWeb)
+
 
 ---
-
-✨ *Construyendo soluciones sólidas desde el servidor hasta la base de datos.*
