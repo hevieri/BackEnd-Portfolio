@@ -4,14 +4,14 @@ Soy desarrolladora Back-End enfocado en construir aplicaciones robustas, seguras
 Me apasiona diseñar la lógica detrás de cada proyecto y optimizar el manejo de datos.
 
 ---
-
 ## ⚙️ Tecnologías que manejo en Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - **PHP** – desarrollo de aplicaciones dinámicas y APIs  
 - **SQL** – modelado de bases de datos, consultas y optimización  
+- **Python** – scripting, automatización y desarrollo de aplicaciones backend  
 - **HTML5 & CSS3** – integración básica para vistas y plantillas  
 - **JavaScript** – soporte en funcionalidades del lado del cliente  
 
